@@ -1,0 +1,135 @@
+#container {
+    height: 100%;
+}
+#container .container {
+    width: 100%;
+}
+.newLogo {
+    width: 231px;
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 0px;
+    position: relative;
+    margin-right: 30px;
+    background: #3a3a3a;
+}
+.newLogo img {
+    position: absolute;
+    left: 0;
+    top: -1px;
+}
+.newLogo span {
+    font-size: 15px;
+    color: #fff;
+    vertical-align: top;
+    position: absolute;
+    right: 0;
+}
+.footer .container .chatme {
+    color: #fff;
+    font-size: 15px;
+    margin-left: 20px;
+}
+footer.bs-docs-footer {
+    /* position: absolute; */
+    background: #3a3a3a;
+    width: 100%;
+    /* bottom: -67px; */
+    padding: 0;
+}
+.footer-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 3px;
+}
+.post.newpost {
+    padding-right: 0;
+    padding-left: 0;
+}
+.post.newpost .row{
+    padding-left: 35px;
+}
+.post.newpost .row-search-label {
+    padding-left: 0;
+}
+.seart-content .form-group {
+    float: left;
+    margin-right: 10px;
+    width: 60%;
+}
+.seart-content h4 {
+    float: left;
+}
+.desc-content {
+    background: #ebebeb;
+    padding: 6px 0;
+    margin-left: 22px;
+}
+.desc-content h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 20px 0 6px 0;
+    background: #fff;
+}
+.desc-content p {
+    margin: 0;
+    padding-left: 0;
+    padding-bottom: 20px;
+    background: #fff;
+}
+.descDeta span {
+    float: left;
+    width: 98%;
+    margin-right: 10px;
+}
+.descDeta button {
+    float: left;
+}
+.dataMapListTitle a {
+    float: left;
+    margin-right: 10px;
+}
+.dataMapListTitle span {
+    float: left;
+    width: 20px;
+    height: 30px;
+    /*background: url(../img/dataMapIcon.svg) no-repeat top left;*/
+}
+.ant-calendar-picker-clear, 
+.ant-calendar-picker-icon {
+    z-index: 0 !important;
+}
+.ant-modal-confirm-content {
+    text-indent: 2em;
+}
+.ant-modal-confirm-title {
+    text-align: center!important;
+}
+.ant-modal-confirm-btns {
+    float: none!important;
+    text-align: center;
+}
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.dataMapListTitle a {
+    color: #337ab7;
+}
+body {
+    background-color: #ebebeb;
+}

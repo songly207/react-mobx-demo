@@ -1,0 +1,23 @@
+.popover-class {
+    font-size: 12px;
+}
+.popover-tips {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1px solid #337ab7;
+    color: #337ab7;
+    cursor: pointer;
+    padding: 0;
+    line-height: 18px;
+    font-size: 12px;
+    outline: none;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus,
+.btn:visited,
+.btn-default {
+    outline: none;
+}

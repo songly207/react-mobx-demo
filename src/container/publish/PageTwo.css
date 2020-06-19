@@ -1,0 +1,17 @@
+.drop-item .dropdown-menu li > a {
+    border: none;
+    border-radius: 0;
+    width: 100%;
+}
+
+.drop-item button.btn {
+    min-height: 34px;
+}
+.post {
+    overflow: visible;
+}
+.table-boder-tr > td {
+    border: 1px solid #DDD!important;
+    padding: 0 5px 0 5px!important;
+    vertical-align: middle!important;
+}
